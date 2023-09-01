@@ -22,6 +22,9 @@ Number -> 1 Because I want to install 1.20.1
 First make sure you have a ngrok token get it on : https://dashboard.ngrok.com/get-started/your-authtoken
 After that you install a version you like to host
 Then host the installed version
+The ngrok token should be something like this:
+
+<img width="500" alt="Screenshot 2023-09-01 155558" src="https://github.com/RealViper8/Minecraft-Host/assets/101727162/6422c615-ad17-4355-aec7-3526a2644a2e">
 
 ## Configure-Manually
 You need to configure your server manually go in Versions
