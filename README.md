@@ -14,8 +14,13 @@ Open main.py and wait until it downloads the dependencies
 To install a version go in the main menu
 Then select the option 2 wich is versions
 After that select wich version you want to install
+
 Example:
+
 1 1.20.1
+
+2 1.20
+
 Number -> 1 Because I want to install 1.20.1
 
 ## Hosting
