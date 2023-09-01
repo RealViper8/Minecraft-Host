@@ -1,5 +1,5 @@
 <p>
-  <img width="673" alt="de" src="https://github.com/RealViper8/Minecraft-Host/assets/101727162/5b05fd49-8b95-449c-ab21-f8a76f2c9766">
+  <img width="673" alt="Screenshot 2023-08-30 202351" src="https://github.com/RealViper8/Minecraft-Host/assets/101727162/ef6e7bba-135c-4777-8edb-011a39d04642">
 </p>
 
 # Minecraft-Host
