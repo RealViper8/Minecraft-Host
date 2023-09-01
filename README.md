@@ -24,12 +24,12 @@ After that you install a version you like to host
 Then host the installed version
 The ngrok token should be something like this:
 
-<img width="500" alt="Screenshot 2023-09-01 160056" src="https://github.com/RealViper8/Minecraft-Host/assets/101727162/ad6f4a93-b645-42ee-a5de-4ed211799696">
+<img width="500" alt="Screenshot 2023-09-01 160056" src="https://github.com/RealViper8/Minecraft-Host/assets/101727162/b7461e0c-4fbc-485c-8bb5-fdb9852a2a88">
+
 
 Then press copy and paste it in this field:
 
-<img width="500" alt="Screenshot 2023-09-01 160222" src="https://github.com/RealViper8/Minecraft-Host/assets/101727162/7795d143-d578-4dc3-84ea-d8c110408da2">
-
+<img width="638" alt="Screenshot 2023-09-01 160222" src="https://github.com/RealViper8/Minecraft-Host/assets/101727162/4ebc5be0-93da-4554-bab4-de8a2fc9ce7f">
 
 ## Configure-Manually
 You need to configure your server manually go in Versions
