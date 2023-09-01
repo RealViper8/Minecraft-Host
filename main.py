@@ -86,7 +86,7 @@ def main() -> None:
                         print(pystyle.Colors.light_green+"How much ram should the server use ? (GB)"+pystyle.Colors.reset)
                         RAM = pystyle.Write.Input("Ram in GB : ",pystyle.Colors.green_to_blue, interval=0.025)
                         print()
-                        print(pystyle.Colors.dark_blue+"Do you want a graphical user interface? default = True"+pystyle.Colors.reset)
+                        print(pystyle.Colors.blue+"Do you want a graphical user interface? default = True"+pystyle.Colors.reset)
                         Gui = pystyle.Write.Input("Gui (True or False) -> ",pystyle.Colors.green_to_cyan, interval=0.025)
                         if Gui == "" or Gui.isspace() or Gui == None:
                             Gui = "True"
@@ -136,8 +136,6 @@ def main() -> None:
                                     f = open("eula.txt","w")
                                     f.write("eula=TRUE")
                                     f.close()
-                                print(Gui)
-                                os.system("pause")
                                 os.system(str(JAVA)+" -Xmx"+str(Ram)+"M"+" -Xms"+str(Ram)+"M"+" -jar "+str(CurrentVersion[int(I)-1]).replace(".","-")+".jar"+" "+"nogui" if Gui == "False" or Gui == "false" else str(JAVA)+" -Xmx"+str(Ram)+"M"+" -Xms"+str(Ram)+"M"+" -jar "+str(CurrentVersion[int(I)-1]).replace(".","-")+".jar")
                         try: os.system("taskkill /F /IM  ngrok.exe /T")
                         except: print(pystyle.Colors.green+"[-] Tried closing ngrok process it was already closed !"+pystyle.Colors.reset)
