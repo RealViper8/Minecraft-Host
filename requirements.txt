@@ -1,0 +1,4 @@
+jdk4py==17.0.7.0
+psutil==5.9.5
+pystyle==2.9
+wget==3.2
