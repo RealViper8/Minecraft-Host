@@ -37,5 +37,6 @@ Then press copy and paste it in this field:
 <img width="638" alt="Screenshot 2023-09-01 160222" src="https://github.com/RealViper8/Minecraft-Host/assets/101727162/4ebc5be0-93da-4554-bab4-de8a2fc9ce7f">
 
 ## Configure-Manually
-You need to configure your server manually go in Versions
-direcotry and the version you want to configure then open server.properties and change the values you want !
+if you need to configure your server manually go in Versions
+directory and the version you want to configure then open server.properties and change the values you want.
+Set online-mode false if you use a cracked launcher
